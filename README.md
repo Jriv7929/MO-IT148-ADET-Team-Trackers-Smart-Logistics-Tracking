@@ -6,6 +6,5 @@
 **Harty Joy Villegas**
 **Jonathan Rivera**
 
-<img width="1169" height="90" alt="image" src="https://github.com/user-attachments/assets/c57583df-1857-42fb-8f25-143ddd0a65fc" />
-
+<img width="1174" height="143" alt="image" src="https://github.com/user-attachments/assets/6f1b62dc-f3ea-463e-8627-ff6409479f59" />
 
