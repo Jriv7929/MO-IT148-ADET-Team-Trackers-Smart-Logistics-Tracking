@@ -564,24 +564,7 @@ smart-logistics-blockchain/
 
 ---
 
-## 📋 Rubric Alignment
 
-This project was designed to address all three MS1 evaluation criteria:
-
-**Problem/Need Identification & Needs Analysis (14 pts)**
-The problem scope is precisely defined (centralized, mutable logistics databases), with three distinct stakeholder needs identified (tamper-proof records, real-time traceability, auditable trails) and specific technical constraints documented (no cloud spend, extensible to real IoT hardware, queryable by ID).
-
-**Solution & Alternatives Identification & Design (16 pts)**
-Two solutions were formally evaluated (Option A: Cloud DB + Audit Logs vs. Option B: Blockchain Smart Contract) with a structured comparison across immutability, auditability, cryptographic proof, and trust model. Option B was selected with explicit reasoning tied directly to each identified user need. The solution consequences (gas cost, testnet vs. mainnet trade-offs) are acknowledged.
-
-**Ideation (10 pts)**
-The system innovates by using blockchain as the sole source of truth — not a supplement to a database — eliminating the possibility of retroactive data manipulation. The dataset is grounded in real Philippine logistics routes, making the proof-of-concept directly applicable to local operators. Technical decisions (1-second tx delay, baseline record check, ABI-loaded contract interaction) demonstrate genuine engineering depth beyond tutorial-level implementation.
-
----
-
-<div align="center">
-
----
 
 **Team Trackers** · MO-IT148 · Milestone 1 — Blockchain Ledger (Draft) · Week 4
 
